@@ -119,4 +119,4 @@
 - [정기호](https://github.com/signature95)
 - [이주희](https://github.com/fredlee613)
 - [신문혁](https://github.com/MarvinShin)
-- [윤영주]()
+- [윤영주](https://github.com/younyoungju)
