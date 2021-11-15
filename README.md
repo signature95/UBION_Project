@@ -69,11 +69,11 @@
 - 여신기획부서
   -  은행의 여신기획부서는 중소기업, 대기업 대출 규모를 적절하게 조절한다. (물론 중소기업에 전문적으로 대출을 실시하는 IBK중소기업은행이 존재한다)
   -  사후관리부서는 여신을 제공한 후 기업의 부실여부를 모니터링하개 된다.
-  -  이렇게 기획과 사후관리를 나누는 이유는 과거 닉리슨의 베어링 은행 사건이 대표적인 원인이다. 이를 운영리스크 [Operating Risk][https://www.bok.or.kr/portal/main/contents.do?menuNo=200810] 라고 한다
+  -  이렇게 기획과 사후관리를 나누는 이유는 과거 닉리슨의 베어링 은행 사건이 대표적인 원인이다. 이를 운영리스크 [Operating Risk](https://www.bok.or.kr/portal/main/contents.do?menuNo=200810) 라고 한다
 
 
 ## Contributors
-- [정기호][https://github.com/signature95]
-- [이주희][https://github.com/fredlee613]
-- [신문혁][https://github.com/MarvinShin]
-- [윤영주][]
+- [정기호](https://github.com/signature95)
+- [이주희](https://github.com/fredlee613)
+- [신문혁](https://github.com/MarvinShin)
+- [윤영주]()
