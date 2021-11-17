@@ -114,9 +114,19 @@
   - 주가, 재무비율 등 다양한 정보를 얻을 수 있고 데이터 기간도 길게 잡을 수 있다.
  
 
+## 역할
+논문발표 : 이주희
+중간발표 : 신문혁
+최종발표 : 정기호
+Q&A : 윤영주 + 나머진 support
+질문자 : 다 같이 진행
+
 
 ## Contributors
 - [정기호](https://github.com/signature95)
 - [이주희](https://github.com/fredlee613)
 - [신문혁](https://github.com/MarvinShin)
 - [윤영주](https://github.com/younyoungju)
+
+## 조이름
+- Trillion (1조)
