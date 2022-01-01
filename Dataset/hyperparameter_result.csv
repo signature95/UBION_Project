@@ -1,0 +1,1 @@
+데이터프레임,train_test_split(Y/R),t-test(Y/N),변수선택법,VIF(Y/N),sampling 방식,적용모델,선택된 변수,혼동행렬,Accuracy,Precision,Recall,F1-score,hyperparameter 변경
